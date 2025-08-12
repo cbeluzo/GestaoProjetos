@@ -1,4 +1,4 @@
-# Introdução à Administração
+# Gestão De Projetos
 
 [00 - Gestão de Projetos: Plano da Disciplina - Parte 1](https://gamma.app/embed/aft7sr1675nl3v2)
 
