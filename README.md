@@ -15,3 +15,5 @@
 [05 - Estudo de Caso: Desenvolvendo um Aplicativo no IFSP](https://gamma.app/embed/hekp1usf4m5z9qe)
 
 [06 - Quiz de Revisão – Gestão de Projetos](https://gamma.app/embed/69yqw5o0tscdbe1)
+
+[06 - Quiz de Revisão – Gestão de Projetos](Aula 07 - Processos e Ciclo de Vida do Projeto.pdf)
