@@ -17,3 +17,7 @@
 [06 - Quiz de Revisão – Gestão de Projetos](https://gamma.app/embed/69yqw5o0tscdbe1)
 
 [07 - Processos e Ciclo de Vida do Projeto.pdf](https://github.com/cbeluzo/GestaoProjetos/blob/main/Aula%2007%20-%20Processos%20e%20Ciclo%20de%20Vida%20do%20Projeto.pdf)
+
+[08 - TERMO DE ABERTURA DE PROJETO]()
+
+[09 - GERENCIAMENTO DE ESCOPO](https://gamma.app/docs/09-Gerenciamento-de-Escopo-de-Projetos-pvdkds1zgwt29o4)
