@@ -1,5 +1,7 @@
 # Gestão De Projetos
 
+[Livro Base](https://plataforma.bvirtual.com.br/Leitor/Publicacao/22259/pdf/7?code=BObyROyjquOs+KzYnxlsV+CyjtkPxPViC8z6XO3vcKlSDHUnblIYdOmmARy8MIpOPFRr3YkBtzgSMHKvEZ1phw==)
+
 [00 - Gestão de Projetos: Plano da Disciplina - Parte 1](https://gamma.app/embed/aft7sr1675nl3v2)
 
 [00 - Gestão de Projetos: Plano da Disciplina - Parte 2](https://gamma.app/embed/uff1xai89b8b869)
