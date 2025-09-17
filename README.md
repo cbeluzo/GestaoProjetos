@@ -23,3 +23,7 @@
 [08 - TERMO DE ABERTURA DE PROJETO](https://github.com/cbeluzo/GestaoProjetos/blob/main/08-Fundamentos-do-Ciclo-de-Vida-em-Gestao-de-Projetos.pdf)
 
 [09 - GERENCIAMENTO DE ESCOPO](https://gamma.app/docs/09-Gerenciamento-de-Escopo-de-Projetos-pvdkds1zgwt29o4)
+
+[10 - GERENCIAMENTO DE RISCOS](https://gamma.app/docs/10-Gerenciamento-de-Riscos-em-Projetos-00011n5ejoauocf)
+
+[10 - GERENCIAMENTO DE RISCOS - ESTUDO DE CASO](https://gamma.app/docs/10-Gerenciamento-de-Riscos-em-Projetos-00011n5ejoauocf](https://gamma.app/docs/10-Estudo-de-Caso-Falha-no-HealthCaregov-405gmkx6mnw7f6r)
