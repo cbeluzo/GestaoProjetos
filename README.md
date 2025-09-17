@@ -26,4 +26,4 @@
 
 [10 - GERENCIAMENTO DE RISCOS](https://gamma.app/docs/10-Gerenciamento-de-Riscos-em-Projetos-00011n5ejoauocf)
 
-[10 - GERENCIAMENTO DE RISCOS - ESTUDO DE CASO](https://gamma.app/docs/10-Gerenciamento-de-Riscos-em-Projetos-00011n5ejoauocf](https://gamma.app/docs/10-Estudo-de-Caso-Falha-no-HealthCaregov-405gmkx6mnw7f6r)
+[10 - GERENCIAMENTO DE RISCOS - ESTUDO DE CASO](https://gamma.app/docs/10-Estudo-de-Caso-Falha-no-HealthCaregov-405gmkx6mnw7f6r)
