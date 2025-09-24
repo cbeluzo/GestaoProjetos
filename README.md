@@ -31,6 +31,7 @@
 [11 - Gerenciamento do Tempo do Projeto](https://gamma.app/docs/11-Gerenciamento-do-Tempo-do-Projeto-nhqecwonxosfrvw)
 
 [11A - Estrutura Analítica do Projeto (EAP)](https://gamma.app/docs/11A-Estrutura-Analitica-do-Projeto-EAP-ehhmmwjw65cy1xt)
+- [Template EAP](https://lucid.app/lucidspark/701b850a-0f36-4ce9-8444-8163b592162f/edit?page=0_0&invitationId=inv_38019079-9abf-475b-b737-cb210a701f76#)
 
 [11B - Gráfico de Gantt](https://gamma.app/docs/11B-Grafico-de-Gantt-ww3a89nfqjel4ve)
 
