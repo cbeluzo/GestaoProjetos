@@ -27,3 +27,11 @@
 [10 - GERENCIAMENTO DE RISCOS](https://gamma.app/docs/10-Gerenciamento-de-Riscos-em-Projetos-00011n5ejoauocf)
 
 [10 - GERENCIAMENTO DE RISCOS - ESTUDO DE CASO](https://gamma.app/docs/10-Estudo-de-Caso-Falha-no-HealthCaregov-405gmkx6mnw7f6r)
+
+[11 - Gerenciamento do Tempo do Projeto](https://gamma.app/docs/11-Gerenciamento-do-Tempo-do-Projeto-nhqecwonxosfrvw)
+
+[11A - Estrutura Analítica do Projeto (EAP)](https://gamma.app/docs/11A-Estrutura-Analitica-do-Projeto-EAP-ehhmmwjw65cy1xt)
+
+[11B - Gráfico de Gantt](https://gamma.app/docs/11B-Grafico-de-Gantt-ww3a89nfqjel4ve)
+
+[11C - Caminho Crítico (CPM) e PERT](https://gamma.app/docs/11C-Caminho-Critico-CPM-e-PERT-cqhptrgqk0dyhld)
