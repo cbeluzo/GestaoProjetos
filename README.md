@@ -36,3 +36,11 @@
 [11B - Gráfico de Gantt](https://gamma.app/docs/11B-Grafico-de-Gantt-ww3a89nfqjel4ve)
 
 [11C - Caminho Crítico (CPM) e PERT](https://gamma.app/docs/11C-Caminho-Critico-CPM-e-PERT-cqhptrgqk0dyhld)
+
+[12 - Gerenciamento de Aquisições em Projetos](https://gamma.app/docs/12-Gerenciamento-de-Aquisicoes-em-Projetos-k4r7jla6k6mqufs)
+
+[12A - Tipos de Contratos em Projetos de Tecnologia](https://gamma.app/docs/12A-Tipos-de-Contratos-em-Projetos-de-Tecnologia-bd5ncqf0bmk4kih)
+
+[12B - Guia Completo para Request for Proposal (RFP)](https://gamma.app/docs/12B-Guia-Completo-para-Request-for-Proposal-RFP-yevpuzze1f3f83s)
+
+[13 - Gerenciamento de Comunicações em Projetos](https://gamma.app/docs/13-Gerenciamento-de-Comunicacoes-em-Projetos-bb2q59joc69fnk9)
