@@ -44,3 +44,5 @@
 [12B - Guia Completo para Request for Proposal (RFP)](https://gamma.app/docs/12B-Guia-Completo-para-Request-for-Proposal-RFP-yevpuzze1f3f83s)
 
 [13 - Gerenciamento de Comunicações em Projetos](https://gamma.app/docs/13-Gerenciamento-de-Comunicacoes-em-Projetos-bb2q59joc69fnk9)
+
+[14 - Gerenciamento de Partes Interessadas em Projetos](https://gamma.app/docs/14-Gerenciamento-de-Partes-Interessadas-em-Projetos-30zb4049gx9bbwx)
