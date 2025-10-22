@@ -46,3 +46,6 @@
 [13 - Gerenciamento de Comunicações em Projetos](https://gamma.app/docs/13-Gerenciamento-de-Comunicacoes-em-Projetos-bb2q59joc69fnk9)
 
 [14 - Gerenciamento de Partes Interessadas em Projetos](https://gamma.app/docs/14-Gerenciamento-de-Partes-Interessadas-em-Projetos-30zb4049gx9bbwx)
+
+[15 - Gerenciamento de Custos em Projetos](https://gamma.app/docs/15-Gerenciamento-do-Custo-do-Projeto-ext6i9rkcata6n2)
+
